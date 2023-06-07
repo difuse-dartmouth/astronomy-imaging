@@ -36,15 +36,13 @@ The module is hosted on Google Colab. Instructors should download the Google Col
 ## Schedule and Links
 Use this table to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
 
-Ensure links under "Linked course content" redirect to actual module components. Follow the template for linkage
-
-| Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
-|------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Lab 1 | In class      | Image and Data Acquisition  | Course content |[Problem Set 1](completed_module/components/assignment1/) |
-| Week 2 | In class      | Data Analysis in Colab | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/) |
+| Date             |  In/Out of Class | Assignment Description                     | Assignment Files (Linked to Repository Contents) |
+|------------------|-----------------|--------------------------------------------------|--------------------------------------------------|
+| Lab 1  | In class      | Image and Data Acquisition  | [Telescope Images](completed_module/components/assignment1/) [Blank Data File](completed_module/components/assignment1/) [Test Data File](completed_module/components/assignment1/) |
+| Lab 2  | In class      | Data Analysis in Colab      | [Colab File](completed_module/components/assignment2/) [Colab Instructions](completed_module/components/assignment2/) |
 
 ## Course Information
-This course was developed for an Astronomy course, <a href="https://catalog.pomona.edu/content.php?catoid=43&catoid=43&navoid=8669&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=3#/usr/local/webroot/acalog-legacy/shared/htdocs_gateway/ajax/preview_course.php:~:text=ASTR051%20PO%20%2D%20Advanced%20Introductory%20Astronomy">[ASTR 51]</a>, at Pomona College which explores introductory concepts of Astronomy and includes laboratory assignments. The course is intended for prospective majors in the Astronomy or Physics Departments. AP Physics or equivalent College-Level Physics is a prequisite for this course, but incoming students may or may not have any experience in coding.
+This course was developed for an Astronomy course, <a href="https://catalog.pomona.edu/content.php?catoid=43&catoid=43&navoid=8669&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=3#/usr/local/webroot/acalog-legacy/shared/htdocs_gateway/ajax/preview_course.php:~:text=ASTR051%20PO%20%2D%20Advanced%20Introductory%20Astronomy">ASTR 51</a>, at Pomona College which explores introductory concepts of Astronomy and includes laboratory assignments. The course is intended for prospective majors in the Astronomy or Physics Departments. AP Physics or equivalent College-Level Physics is a prequisite for this course, but incoming students may or may not have any experience in coding.
 
 ---
 
