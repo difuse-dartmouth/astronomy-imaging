@@ -1,1 +1,3 @@
-Upload data files here.
+As described in the module outline, students are intended to produce their own data for use with the Colab file. Students should enter their data into a spreadsheet with formatting that exactly matches the columns in **Blank_Uranus_Data.csv**.
+
+Contained in this folder are also backups for students to use to produce that data, or to use if the data collection step needs to be skipped. **Test_VG_Uranus_Data.csv** contains a complete set of working test data, and **Chile_canary_astrom_2021.zip** contains a set of 66 images that students can use to produce data from in DS9 if new images cannot be taken.
