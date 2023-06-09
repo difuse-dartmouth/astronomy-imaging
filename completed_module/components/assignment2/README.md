@@ -1,6 +1,6 @@
 # How to Download and Use the Colab File
 
-This README contains instructions on two methods to download the Colab file in order to create your own copy in Google Drive. You must have a working google account with google drive to complete these steps. Do one of these steps to import the Colab file **filename** to your Drive. The other **filename** is a pdf that students can follow along with to help them use the Colab.
+This README contains instructions on two methods to download the Colab file in order to create your own copy in Google Drive. You must have a working google account with google drive to complete these steps. Do one of these steps to import the Colab file **DIFUSE_Astro_Imaging_Colab_v_1_4.ipynb** to your Drive. The other file **Astro-Imaging Colab Instructions** is a pdf that students can follow along with to help them use the Colab.
 
 ## Option 1: Import from Github
 
