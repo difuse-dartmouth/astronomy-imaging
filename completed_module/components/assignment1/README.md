@@ -1,1 +1,1 @@
-Upload assignment 1 components.
+Assignment 1 is external to this module and involves data collection and image analysis in DS9. You can access the data in the [data] folder. This folder only contains the pdf file from the original lab assignment for reference.
