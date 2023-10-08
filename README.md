@@ -2,7 +2,7 @@
 
 ## Contributors: Andy Bean ('23), Carrie Harris (GR), Philip Choi (Professor of Physics and Astronomy, Pomona College), Professor Petra Bonfert-Taylor (PI), Professor Lorie Loeb (PI), Taylor Hickey ('23, PM), and Ben Levesque ('24, PM)  
 
-![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-sample.png)
+![Title slide for ASTR 51 DIFUSE module.](repository-assets/DIFUSE-ASTR51.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
