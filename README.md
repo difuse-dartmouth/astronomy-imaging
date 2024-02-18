@@ -1,6 +1,6 @@
 # Astronomy: Imaging Data Science Module 
 
-## Contributors: Andy Bean ('23), Carrie Harris (GR), Philip Choi (Professor of Physics and Astronomy, Pomona College), Professor Petra Bonfert-Taylor (PI), Professor Lorie Loeb (PI), Taylor Hickey ('23, PM), and Ben Levesque ('24, PM)  
+## Contributors: Andy Bean ('23), Carolynn Harris (GR), Philip Choi (Professor of Physics and Astronomy, Pomona College), Professor Petra Bonfert-Taylor (PI), Professor Lorie Loeb (PI), Taylor Hickey ('23, PM), and Ben Levesque ('24, PM)  
 
 ![Title slide for ASTR 51 DIFUSE module.](repository-assets/DIFUSE_ASTR51.png)
 
